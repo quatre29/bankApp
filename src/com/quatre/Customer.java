@@ -5,6 +5,9 @@ import java.util.ArrayList;
 public class Customer {
     //test comment
     //comment 2
+    //comment 3
+    //comment 4
+    //comment 5
     private String name;
     private ArrayList<Double> transactions;
     private double balance;
