@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Main {
     // COMMENT TEST
+    //Comment nr 2
     private static Scanner scanner = new Scanner(System.in);
     private static Bank bank = new Bank("Barclays");
     public static void main(String[] args) {
