@@ -3,6 +3,7 @@ package com.quatre;
 import java.util.ArrayList;
 
 public class Customer {
+    //test comment
     private String name;
     private ArrayList<Double> transactions;
     private double balance;
