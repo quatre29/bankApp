@@ -8,6 +8,8 @@ public class Customer {
     private ArrayList<Double> transactions;
     private double balance;
     private String branchName;
+    //LOL
+    //NEW FORM
 
     public Customer(String name, double balance, String branchName) {
         this.name = name;
