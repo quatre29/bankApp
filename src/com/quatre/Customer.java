@@ -4,6 +4,7 @@ import java.util.ArrayList;
 
 public class Customer {
     //CRAZY COLORS IN CUSTOMER CLASS
+    //NEW COMMENT
     private String name;
     private ArrayList<Double> transactions;
     private double balance;
