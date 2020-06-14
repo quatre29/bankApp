@@ -8,7 +8,11 @@ public class Customer {
     private ArrayList<Double> transactions;
     private double balance;
     private String branchName;
+
     //NEW HEADER
+
+    //LOL
+    //NEW FORM
 
     public Customer(String name, double balance, String branchName) {
         this.name = name;
